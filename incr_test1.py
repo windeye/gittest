@@ -9,5 +9,6 @@ def incr_test():
     result = pipe.execute()
     print result
 # main
+#for amend
 if __name__ == "__main__":
     incr_test()
