@@ -8,6 +8,6 @@ def incr_test():
     #pipe.hincrbyfloat("hash1", "field1", 1.2)
     result = pipe.execute()
     print result
-
+# main
 if __name__ == "__main__":
     incr_test()
